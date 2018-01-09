@@ -1,4 +1,4 @@
-# CryptoAnalyzer
+# CryptoAnalyzer -- Read in RAW
 
 ##
 ## Instructions 
